@@ -1,0 +1,12 @@
+h2 {
+    color: rgb(148, 143, 143);
+}
+.accordion-button {
+    background-color: rgb(243, 241, 241);
+    color: orange;
+    text-align: left;
+    padding-left: 15em;
+}
+.accordion-button::after {
+    content: none;
+}
